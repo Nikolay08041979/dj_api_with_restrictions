@@ -13,16 +13,16 @@
 
 
 ## Измененя внесены:
-✅ [advertisements/models.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/models.py)
+✅ [../advertisements/models.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/models.py)
 
-✅ [advertisement/admin.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/admin.py)
+✅ [../advertisement/admin.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/admin.py)
 
-✅ [advertisement/views.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/views.py)
+✅ [../advertisement/views.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/views.py)
 
-✅ [advertisements/serializers.py]https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/serializers.py
+✅ [../advertisements/serializers.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/serializers.py)
 
-✅ [advertisements/filters.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/filters.py)
+✅ [../advertisements/filters.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/filters.py)
 
-✅ [api_with_restrictions/urls.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/api_with_restrictions/urls.py)
+✅ [../api_with_restrictions/urls.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/api_with_restrictions/urls.py)
 
-✅ [api_with_restrictions/settings.py]https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/api_with_restrictions/settings.py
+✅ [../api_with_restrictions/settings.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/api_with_restrictions/settings.py)
