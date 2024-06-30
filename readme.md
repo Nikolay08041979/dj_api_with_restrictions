@@ -12,11 +12,17 @@
 ✅ Чтобы боты и злоумышленники не нагружали нашу систему, добавьте лимиты на запросы: для неавторизованных пользователей: 10 запросов в минуту; для авторизованных пользователей: 20 запросов в минуту.
 
 
-### Измененя внесены:
-✅ [school/modele.py](https://github.com/Nikolay08041979/django_project-4/blob/master/orm_migrations/school/models.py)
+## Измененя внесены:
+✅ [advertisements/models.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/models.py)
 
-✅ [school/admin.py](https://github.com/Nikolay08041979/django_project-4/blob/master/orm_migrations/school/admin.py)
+✅ [advertisement/admin.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/admin.py)
 
-✅ [school/views.py](https://github.com/Nikolay08041979/django_project-4/blob/master/orm_migrations/school/views.py)
+✅ [advertisement/views.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/views.py)
 
-✅ [templates/school/student_list.html](https://github.com/Nikolay08041979/django_project-4/blob/master/orm_migrations/templates/school/students_list.html)
+✅ [advertisements/serializers.py]https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/serializers.py
+
+✅ [advertisements/filters.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/advertisements/filters.py)
+
+✅ [api_with_restrictions/urls.py](https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/api_with_restrictions/urls.py)
+
+✅ [api_with_restrictions/settings.py]https://github.com/Nikolay08041979/dj_api_with_restrictions/blob/master/3.3-permissions/api_with_restrictions/api_with_restrictions/settings.py
