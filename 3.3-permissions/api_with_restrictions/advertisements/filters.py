@@ -8,9 +8,12 @@ class AdvertisementFilter(filters.FilterSet):
 
     # TODO: задайте требуемые фильтры
 
+    status = filters.CharFilter(lookup_expr='exact')
+    created_at = filters.DateFromToRangeFilter()
+
 
     class Meta:
         model = Advertisement
-        fields = ['id', 'status', 'created_at', 'updated_at']
+        fields = ['status', 'created_at', 'updated_at']
 
 
